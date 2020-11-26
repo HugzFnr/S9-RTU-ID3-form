@@ -1,0 +1,10 @@
+C:\ENSC\3A\S9 Erasmus RTU\Development Methods of Applied Intelligent Software Systems\Task5\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.exe.config
+C:\ENSC\3A\S9 Erasmus RTU\Development Methods of Applied Intelligent Software Systems\Task5\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.exe
+C:\ENSC\3A\S9 Erasmus RTU\Development Methods of Applied Intelligent Software Systems\Task5\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.pdb
+C:\ENSC\3A\S9 Erasmus RTU\Development Methods of Applied Intelligent Software Systems\Task5\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csprojAssemblyReference.cache
+C:\ENSC\3A\S9 Erasmus RTU\Development Methods of Applied Intelligent Software Systems\Task5\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Form1.resources
+C:\ENSC\3A\S9 Erasmus RTU\Development Methods of Applied Intelligent Software Systems\Task5\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Properties.Resources.resources
+C:\ENSC\3A\S9 Erasmus RTU\Development Methods of Applied Intelligent Software Systems\Task5\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csproj.GenerateResource.cache
+C:\ENSC\3A\S9 Erasmus RTU\Development Methods of Applied Intelligent Software Systems\Task5\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csproj.CoreCompileInputs.cache
+C:\ENSC\3A\S9 Erasmus RTU\Development Methods of Applied Intelligent Software Systems\Task5\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.exe
+C:\ENSC\3A\S9 Erasmus RTU\Development Methods of Applied Intelligent Software Systems\Task5\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.pdb
