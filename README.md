@@ -4,4 +4,4 @@ This is a (very messy, quickly done and dirty) C# implementations with WinForms 
  
 Classes Tree and TreeNode are used from https://github.com/WolfgangOfner/ , thanks to him.
  
-You can download then test it with this executable file : S9-RTU-ID3-form\WindowsFormsApp1\bin\Debug .
+You can download then test it with this executable file : S9-RTU-ID3-form\WindowsFormsApp1\bin\Debug/WindowsFormsApp1 .
